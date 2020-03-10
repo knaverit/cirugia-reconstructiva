@@ -1,0 +1,5 @@
+insert into sa.empleados values ('32147', 'Paulina', 'Torres', 'Contabilidad', 32000.0, 'P45JSI', 22);
+insert into sa.empleados values ('89762', 'Arturo', 'Bernal', 'Desarrollo', 65000.0, 'TA9LL1', 25);
+insert into sa.empleados values ('96134', 'Roberto', 'Franco', 'Mercadotecnia', 44000.0, 'LO9S2V', 34);
+insert into sa.empleados values ('34477', 'Marcela', 'Huerta', 'Desarrollo', 67000.0, 'UU2ALK', 37);
+insert into sa.empleados values ('37648', 'Juan', 'Salas', 'Mercadotecnia', 28000.0, '3SL99A', 46);
